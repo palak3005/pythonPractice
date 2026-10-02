@@ -13,5 +13,6 @@ del list1[2:]
 print(list1)
 sum(list1)
 #sort() min() max()
+print(min(list1))
 list1.extend([20,20,20])
 print(list1)
